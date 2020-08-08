@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "730269815446",
+    "firebase_url": "https://loja-virtual-5a996.firebaseio.com",
+    "project_id": "loja-virtual-5a996",
+    "storage_bucket": "loja-virtual-5a996.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730269815446:android:469bc660c0779ebd7028b7",
+        "android_client_info": {
+          "package_name": "br.com.vicco.lojavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730269815446-rjju7uddu01e0k8sa1nqascpgodnj9qn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-ZwVCfwaHL7qujkiL07LGkTlScFLfWKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730269815446-rjju7uddu01e0k8sa1nqascpgodnj9qn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "730269815446-73ur4hm9fvn1e44c5pcukn32dn0amfgi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.vicco.lojavirtual"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
