@@ -16,9 +16,7 @@ class ProductManager extends ChangeNotifier{
     final QuerySnapshot snapProducts =
     await firestore.collection('products').getDocuments();
 
-//    allProducts = snapProducts.documents.map(
-//            (d) => Product.fromDocument(d)).toList();
-
+    allProducts = snapProducts.documents.map((doc) => Product.fromDocument(doc)).toList();
     notifyListeners();
   }
 

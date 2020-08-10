@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'file:///C:/Users/vinic/AndroidStudioProjects/loja_virtual/lib/common/custom_drawer/drawertile.dart';
+import 'package:lojavirtual/common/custom_drawer/drawertile.dart';
 import 'package:lojavirtual/common/custom_drawer/custom_drawer_header.dart';
 class CustomDrawer extends StatelessWidget {
   @override
